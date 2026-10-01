@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/Rayvent/Coco-IDE/releases/latest"><b>Windows</b></a>
+  <a href="https://github.com/Rayvent/Coco-IDE/releases/latest/download/CocoIDE-Windows.exe"><b>Windows</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/Rayvent/Coco-IDE/releases/latest"><b>macOS</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
