@@ -4,20 +4,30 @@
 
 <h1>Coco IDE</h1>
 
+<p><b>Удобная среда разработки для CDM-8</b></p>
+
 <p>
-  <b>Удобная среда разработки для CDM-8</b>
+Редактирование, запуск и отладка программ в одном простом интерфейсе.
 </p>
 
 <p>
-  Редактирование, запуск и отладка программ в одном простом интерфейсе.
+<a href="https://github.com/Rayvent/Coco-IDE/releases/latest/download/CocoIDE-Windows.exe">
+   <b>Windows</b>
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/Rayvent/Coco-IDE/releases/latest/download/CocoIDE-macOS-Apple-Silicon.zip">
+   <b>macOS Apple Silicon</b>
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/Rayvent/Coco-IDE/releases/latest/download/CocoIDE-macOS-Intel.zip">
+   <b>macOS Intel</b>
+</a>
 </p>
 
 <p>
-  <a href="https://github.com/Rayvent/Coco-IDE/releases/latest/download/CocoIDE-Windows.exe"><b>Windows</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/Rayvent/Coco-IDE/releases/latest"><b>macOS</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/Rayvent/Coco-IDE/releases">Все версии</a>
+<a href="https://github.com/Rayvent/Coco-IDE/releases">Все версии</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/Rayvent/Coco-IDE/issues">Сообщить об ошибке</a>
 </p>
 
 </div>
@@ -36,50 +46,98 @@
 - ▶️ Запуск программ
 - 🐞 Инструменты отладки
 - 💻 Простой и понятный интерфейс
-- 🪟 Windows
-- 🍎 macOS
+- 🪟 Поддержка Windows
+- 🍎 Поддержка macOS на Apple Silicon и Intel
 
 ## Скачать
 
-Актуальные версии **Coco IDE** находятся в разделе
-[**Releases →**](https://github.com/Rayvent/Coco-IDE/releases/latest)
-
 ### 🪟 Windows
 
-Скачайте версию для Windows из раздела **Assets** последнего релиза и запустите установочный файл.
+[**Скачать Coco IDE для Windows →**](https://github.com/Rayvent/Coco-IDE/releases/latest/download/CocoIDE-Windows.exe)
 
-[**Скачать для Windows →**](https://github.com/Rayvent/Coco-IDE/releases/latest/download/CocoIDE-Windows.exe)
+Скачайте установочный файл и запустите его.
 
-### 🍎 macOS
+---
 
-Для macOS доступны версии для **Apple Silicon** и **Intel**.
+### 🍎 macOS — Apple Silicon
 
-Скачайте подходящий архив из раздела **Assets**, распакуйте его и перенесите Coco IDE в папку **Программы**.
+Для Mac с процессорами **Apple M1, M2, M3, M4 и новее**:
 
-[**Скачать для macOS →**](https://github.com/Rayvent/Coco-IDE/releases/latest)
+[**Скачать для Apple Silicon →**](https://github.com/Rayvent/Coco-IDE/releases/latest/download/CocoIDE-macOS-Apple-Silicon.zip)
+
+---
+
+### 🍎 macOS — Intel
+
+Для Mac с процессорами **Intel**:
+
+[**Скачать для Intel →**](https://github.com/Rayvent/Coco-IDE/releases/latest/download/CocoIDE-macOS-Intel.zip)
+
+---
+
+Все опубликованные версии доступны здесь:
+
+[**GitHub Releases →**](https://github.com/Rayvent/Coco-IDE/releases)
 
 ## Установка
 
 ### Windows
 
-1. Скачайте последнюю версию Coco IDE.
-2. Запустите установочный файл.
+1. Скачайте `CocoIDE-Windows.exe`.
+2. Запустите скачанный файл.
 3. Следуйте инструкциям установщика.
 
 ### macOS
 
-1. Скачайте версию для вашего процессора.
-2. Распакуйте архив.
-3. Перенесите Coco IDE в папку **Программы** (`Applications`).
+1. Скачайте версию Coco IDE для вашего процессора.
+2. Распакуйте ZIP-архив.
+3. Перенесите приложение Coco IDE в папку **Программы** (`Applications`).
+4. Попробуйте запустить приложение.
 
-Если macOS блокирует запуск приложения, скачанного из официального репозитория Coco IDE, откройте **Терминал**.
+Если macOS блокирует запуск приложения, скачанного из официального репозитория Coco IDE, откройте **Терминал** и выполните команду для вашей версии.
 
-Для Apple Silicon:
+#### Apple Silicon
+
+Для Mac с процессорами **M1, M2, M3, M4 и новее**:
 
 ```bash
 xattr -dr com.apple.quarantine "/Applications/CocoIDE Apple Silicon.app"
 ```
-Для Apple Intel:
+
+#### Intel
+
+Для Mac с процессором **Intel**:
 
 ```bash
-xattr -dr com.apple.quarantine "/Applications/CocoIDE Apple Intel.app"
+xattr -dr com.apple.quarantine "/Applications/CocoIDE Intel.app"
+```
+
+После выполнения команды снова запустите Coco IDE из папки **Программы**.
+
+## Скриншоты
+
+Скриншоты интерфейса будут добавлены позже.
+
+## Обратная связь
+
+Если вы нашли ошибку или хотите предложить улучшение:
+
+[**Создать Issue →**](https://github.com/Rayvent/Coco-IDE/issues/new)
+
+## Версии
+
+История всех опубликованных версий:
+
+[**GitHub Releases →**](https://github.com/Rayvent/Coco-IDE/releases)
+
+---
+
+<div align="center">
+
+<img src="assets/logo.png" width="50" alt="Coco IDE">
+
+<br><br>
+
+<sub><b>Coco IDE</b> · разработка для CDM-8 без лишнего</sub>
+
+</div>
