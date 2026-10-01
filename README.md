@@ -78,3 +78,8 @@
 
 ```bash
 xattr -dr com.apple.quarantine "/Applications/CocoIDE Apple Silicon.app"
+```
+Для Apple Intel:
+
+```bash
+xattr -dr com.apple.quarantine "/Applications/CocoIDE Apple Intel.app"
