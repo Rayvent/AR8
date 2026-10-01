@@ -114,30 +114,11 @@ xattr -dr com.apple.quarantine "/Applications/CocoIDE Intel.app"
 
 После выполнения команды снова запустите Coco IDE из папки **Программы**.
 
-## Скриншоты
-
-Скриншоты интерфейса будут добавлены позже.
-
-## Обратная связь
-
-Если вы нашли ошибку или хотите предложить улучшение:
-
-[**Создать Issue →**](https://github.com/Rayvent/Coco-IDE/issues/new)
-
 ## Версии
 
 История всех опубликованных версий:
 
 [**GitHub Releases →**](https://github.com/Rayvent/Coco-IDE/releases)
 
----
 
-<div align="center">
 
-<img src="assets/logo.png" width="50" alt="Coco IDE">
-
-<br><br>
-
-<sub><b>Coco IDE</b> · разработка для CDM-8 без лишнего</sub>
-
-</div>
