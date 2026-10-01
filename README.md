@@ -75,7 +75,3 @@ xattr -dr com.apple.quarantine "/Applications/AR8.app"
 ```
 
 После этого запустите AR8 из папки **Программы**.
-
-## Обратная связь
-
-Нашли ошибку или хотите предложить улучшение? [Создайте обращение в Issues](https://github.com/Rayvent/AR8/issues).
