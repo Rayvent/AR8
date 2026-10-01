@@ -11,17 +11,17 @@
 </p>
 
 <p>
-<a href="https://github.com/Rayvent/AR8-IDE/releases/latest/download/AR8-Windows.exe"><b>Windows</b></a>
+<a href="https://github.com/Rayvent/AR8/releases/latest/download/AR8-Windows.exe"><b>Windows</b></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Rayvent/AR8-IDE/releases/latest/download/AR8-macOS-Apple-Silicon.zip"><b>macOS Apple Silicon</b></a>
+<a href="https://github.com/Rayvent/AR8/releases/latest/download/AR8-macOS-Apple-Silicon.zip"><b>macOS Apple Silicon</b></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Rayvent/AR8-IDE/releases/latest/download/AR8-macOS-Intel.zip"><b>macOS Intel</b></a>
+<a href="https://github.com/Rayvent/AR8/releases/latest/download/AR8-macOS-Intel.zip"><b>macOS Intel</b></a>
 </p>
 
 <p>
-<a href="https://github.com/Rayvent/AR8-IDE/releases">Все версии</a>
+<a href="https://github.com/Rayvent/AR8/releases">Все версии</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Rayvent/AR8-IDE/issues">Сообщить об ошибке</a>
+<a href="https://github.com/Rayvent/AR8/issues">Сообщить об ошибке</a>
 </p>
 
 </div>
@@ -45,7 +45,7 @@
 
 ### Windows
 
-[**Скачать AR8 для Windows →**](https://github.com/Rayvent/AR8-IDE/releases/latest/download/AR8-Windows.exe)
+[**Скачать AR8 для Windows →**](https://github.com/Rayvent/AR8/releases/latest/download/AR8-Windows.exe)
 
 Скачайте `AR8-Windows.exe` и запустите его. Установка не требуется.
 
@@ -53,15 +53,15 @@
 
 Для Mac с процессорами Apple M1, M2, M3, M4 и новее:
 
-[**Скачать для Apple Silicon →**](https://github.com/Rayvent/AR8-IDE/releases/latest/download/AR8-macOS-Apple-Silicon.zip)
+[**Скачать для Apple Silicon →**](https://github.com/Rayvent/AR8/releases/latest/download/AR8-macOS-Apple-Silicon.zip)
 
 ### macOS — Intel
 
 Для Mac с процессором Intel:
 
-[**Скачать для Intel →**](https://github.com/Rayvent/AR8-IDE/releases/latest/download/AR8-macOS-Intel.zip)
+[**Скачать для Intel →**](https://github.com/Rayvent/AR8/releases/latest/download/AR8-macOS-Intel.zip)
 
-Все опубликованные версии доступны на странице [**GitHub Releases →**](https://github.com/Rayvent/AR8-IDE/releases).
+Все опубликованные версии доступны на странице [**GitHub Releases →**](https://github.com/Rayvent/AR8/releases).
 
 ## Запуск на macOS
 
@@ -78,4 +78,4 @@ xattr -dr com.apple.quarantine "/Applications/AR8.app"
 
 ## Обратная связь
 
-Нашли ошибку или хотите предложить улучшение? [Создайте обращение в Issues](https://github.com/Rayvent/AR8-IDE/issues).
+Нашли ошибку или хотите предложить улучшение? [Создайте обращение в Issues](https://github.com/Rayvent/AR8/issues).
