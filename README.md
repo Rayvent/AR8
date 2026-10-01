@@ -48,7 +48,7 @@
 
 Скачайте версию для Windows из раздела **Assets** последнего релиза и запустите установочный файл.
 
-[**Скачать для Windows →**](https://github.com/Rayvent/Coco-IDE/releases/latest)
+[**Скачать для Windows →**](https://github.com/Rayvent/Coco-IDE/releases/latest/download/CocoIDE-Windows.exe)
 
 ### 🍎 macOS
 
